@@ -1,2 +1,2 @@
 # cpp-snake
-[2017] A console snake game, coded in C++ for C++ practice
+[2017] A terminal snake game, coded in C++ for C++ practice
